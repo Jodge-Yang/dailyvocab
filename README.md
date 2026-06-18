@@ -1,1 +1,1 @@
-# dailyvocab.github.io
+# dailyvocab
